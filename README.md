@@ -9,5 +9,5 @@ faiss, matplotlib, numpy, pandas, phik, seaborn
 
 ## Result
 
-Work still in progress. Achieved accuracy@5=60.195 on the train data, accuracy@5=59.982 on the test data. The goal is to reach accuracy@5=80 on the valid data.
+Work still in progress. Achieved accuracy@5=69.141 on the train data, accuracy@5=69.031 on the test data. The goal is to reach accuracy@5=80 on the valid data.
 
